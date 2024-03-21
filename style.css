@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+footer {
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+    margin: 30px 0 0 0;
+}
+
+p.float {
+    float: right;
+    margin: 2em;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.message {
+    color: rgb(255, 0, 0);
+}
